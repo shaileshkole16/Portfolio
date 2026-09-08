@@ -38,7 +38,7 @@ function Projects() {
       description: 'Full-stack portfolio website with React, Express, and SQLite',
       technologies: 'React, Express, SQLite, Node.js, TailwindCSS',
       imageUrl: '',
-      githubUrl: 'github.com/shaileshkole16/portfolio',
+      githubUrl: 'https://github.com/shaileshkole16/Portfolio',
       liveUrl: '',
       impact: [
         { metric: 'Modern', label: 'UI/UX design', icon: <Zap size={16} /> },
