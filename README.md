@@ -306,7 +306,37 @@ The backend is production-ready. Consider:
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a2e/16213e?text=Portfolio+Preview" alt="Portfolio Preview" width="800"/>
+
+### Home Section
+<img src="screenshots/Home.png" alt="Home Section" width="800"/>
+
+### Why Hire Me
+<img src="screenshots/Why_hire_me.png" alt="Why Hire Me" width="800"/>
+
+### About Me
+<img src="screenshots/about_me.png" alt="About Me" width="800"/>
+
+### Education
+<img src="screenshots/education.png" alt="Education" width="800"/>
+
+### Work Experience
+<img src="screenshots/work_experience.png" alt="Work Experience" width="800"/>
+
+### Tech Stack
+<img src="screenshots/tech stack.png" alt="Tech Stack" width="800"/>
+
+### Projects
+<img src="screenshots/projects.png" alt="Projects" width="800"/>
+
+### Certifications
+<img src="screenshots/certifications.png" alt="Certifications" width="800"/>
+
+### Currently Exploring
+<img src="screenshots/currently exploring.png" alt="Currently Exploring" width="800"/>
+
+### Let's Connect
+<img src="screenshots/lets connect.png" alt="Let's Connect" width="800"/>
+
 </div>
 
 ---
