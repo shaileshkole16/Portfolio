@@ -29,7 +29,7 @@ function App() {
       <Contact />
       <footer className="bg-darker border-t border-white/10 text-white py-12 text-center">
         <div className="max-w-7xl mx-auto px-4">
-          <p className="text-gray-400 mb-2">&copy; 2024 Shailesh Kole. Built with React, Express, and modern web technologies.</p>
+          <p className="text-gray-400 mb-2">&copy; 2026 Shailesh Kole. Built with React, Express, and modern web technologies.</p>
           <p className="text-gray-500 text-sm">Building scalable software, one project at a time.</p>
         </div>
       </footer>
