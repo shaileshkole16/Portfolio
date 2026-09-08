@@ -12,7 +12,7 @@ function Projects() {
       githubUrl: 'https://github.com/shaileshkole16/Online_Coaching',
       liveUrl: '',
       impact: [
-        { metric: '3 Roles', label: 'RBAC system', icon: <Users size={16} /> },
+        { metric: 'Scalable', label: 'Unlimited users', icon: <Users size={16} /> },
         { metric: 'Complete', label: 'Full LMS', icon: <Code size={16} /> },
         { metric: 'Secure', label: 'JWT + Audit', icon: <Award size={16} /> }
       ],
@@ -27,7 +27,7 @@ function Projects() {
       githubUrl: 'https://github.com/shaileshkole16/HR_management_System',
       liveUrl: '',
       impact: [
-        { metric: '4 Roles', label: 'RBAC system', icon: <Users size={16} /> },
+        { metric: 'Scalable', label: 'Unlimited employees', icon: <Users size={16} /> },
         { metric: 'Complete', label: 'HR lifecycle', icon: <Zap size={16} /> },
         { metric: 'Secure', label: 'JWT + Refresh', icon: <Award size={16} /> }
       ]
@@ -35,15 +35,15 @@ function Projects() {
     {
       id: 3,
       title: 'Portfolio Website',
-      description: 'Full-stack portfolio website with React, Express, and SQLite',
-      technologies: 'React, Express, SQLite, Node.js, TailwindCSS',
+      description: 'Professional full-stack portfolio website showcasing my skills, projects, and experience. Built with React 18, Express.js, and SQLite, featuring a modern dark theme with gradient accents, smooth animations, and fully responsive design. Includes Hero section with profile picture and resume download, Tech Stack with GenAI & LLMs category, Education with CDAC GenAI course, Featured Projects with detailed descriptions, Work Experience, Certifications, Currently Exploring section, and Contact form. Implements RESTful API with CORS support, dynamic content management, and optimized performance with Vite.',
+      technologies: 'React 18, Vite, Express.js, Node.js, SQLite3, TailwindCSS, Lucide React, React Router',
       imageUrl: '',
       githubUrl: 'https://github.com/shaileshkole16/Portfolio',
       liveUrl: '',
       impact: [
-        { metric: 'Modern', label: 'UI/UX design', icon: <Zap size={16} /> },
-        { metric: 'Fast', label: 'Performance', icon: <TrendingUp size={16} /> },
-        { metric: 'Full Stack', label: 'End-to-end', icon: <Code size={16} /> }
+        { metric: 'Modern', label: 'Dark theme UI', icon: <Zap size={16} /> },
+        { metric: 'Fast', label: 'Vite build', icon: <TrendingUp size={16} /> },
+        { metric: 'Full Stack', label: 'React + Express', icon: <Code size={16} /> }
       ]
     }
   ])

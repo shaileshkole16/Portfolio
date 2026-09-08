@@ -72,7 +72,7 @@ function Hero() {
               <div className="bg-white/5 backdrop-blur-sm rounded-xl p-4 border border-white/10 hover:border-primary/50 transition-all">
                 <div className="flex items-center gap-2 mb-2">
                   <Rocket className="text-green-400" size={20} />
-                  <span className="text-white font-semibold">4+ Projects</span>
+                  <span className="text-white font-semibold">3 Projects</span>
                 </div>
                 <p className="text-gray-400 text-sm">Shipped applications</p>
               </div>
