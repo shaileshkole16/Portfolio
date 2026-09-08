@@ -22,7 +22,7 @@ function Certifications() {
       name: 'Quizeethon Participant',
       issuer: 'Core2Web and Incubators',
       date: '2024',
-      description: 'Participated in a Flutter-related technical quiz competition organized by Core2Web and Incubators, demonstrating strong Flutter development knowledge'
+      description: 'Competed in a technical quiz competition focused on Flutter development, testing knowledge in mobile app development, UI/UX principles, and Flutter framework concepts. Demonstrated problem-solving skills and technical expertise in a competitive environment.'
     }
   ])
 

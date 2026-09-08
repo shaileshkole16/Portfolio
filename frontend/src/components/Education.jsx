@@ -30,7 +30,7 @@ function Education() {
       field: 'Information Technology',
       startDate: 'July 2021',
       endDate: 'June 2025',
-      gpa: '7.31',
+      gpa: 'CGPA: 7.31',
       coursework: ''
     },
     {

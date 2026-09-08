@@ -20,35 +20,35 @@ function Learning() {
       icon: <Lightbulb size={32} />,
       title: 'Machine Learning',
       description: 'TensorFlow Lite and Core ML for mobile applications',
-      status: 'Learning',
+      status: 'In Progress',
       color: 'from-purple-500 to-pink-500'
     },
     {
       icon: <Target size={32} />,
       title: 'Cloud Architecture',
       description: 'AWS and cloud-native development practices',
-      status: 'Exploring',
+      status: 'Planned',
       color: 'from-orange-500 to-red-500'
     },
     {
       icon: <BookOpen size={32} />,
       title: 'System Design',
       description: 'Scalable architecture patterns and best practices',
-      status: 'Learning',
+      status: 'In Progress',
       color: 'from-green-500 to-emerald-500'
     },
     {
       icon: <GraduationCap size={32} />,
       title: 'TypeScript',
       description: 'Advanced TypeScript for type-safe development',
-      status: 'Learning',
+      status: 'In Progress',
       color: 'from-yellow-500 to-orange-500'
     },
     {
       icon: <TrendingUp size={32} />,
       title: 'Performance Optimization',
       description: 'Advanced techniques for web and mobile performance',
-      status: 'Continuous',
+      status: 'Ongoing',
       color: 'from-indigo-500 to-purple-500'
     }
   ]
